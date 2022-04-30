@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/drawable/draw_background_shadow.xml" value="0.2" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/drawable/ic_company_logo_vertical.xml" value="0.2" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/layout/activity_splash.xml" value="0.4" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/layout/base_recyclerview.xml" value="0.2160367722165475" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/layout/item_rv_person.xml" value="0.2111111111111111" />
+        <entry key="..\:/4F/learning/Android_RecyclerView_With_Beautiful_Animations/learn/app/src/main/res/menu/choose_menu.xml" value="0.2160367722165475" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

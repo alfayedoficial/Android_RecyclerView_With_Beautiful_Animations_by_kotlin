@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+	 xmlns:app="http://schemas.android.com/apk/res-auto"
+	 xmlns:tools="http://schemas.android.com/tools">
+
+	 <data>
+
+	 </data>
+
+	 <androidx.constraintlayout.widget.ConstraintLayout
+		  android:layout_width="match_parent"
+		  android:layout_height="match_parent"
+		  tools:context=".view.SplashActivity">
+
+
+		  <androidx.constraintlayout.widget.ConstraintLayout
+			   android:id="@+id/lyParent"
+			   android:background="@drawable/draw_background_shadow"
+			   android:layout_width="match_parent"
+			   android:layout_height="match_parent">
+
+			   <TextView
+					android:id="@+id/textView"
+					style="@style/TextAppearance.AppCompat.Large"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_marginHorizontal="80dp"
+					android:text="@string/app_name"
+					android:textAlignment="center"
+					android:textColor="@color/purple_700"
+					android:textStyle="bold"
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent" />
+
+			   <ImageView
+					android:id="@+id/imgCompany"
+					android:layout_marginTop="5dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@drawable/ic_company_logo_vertical"
+					android:visibility="gone"
+					app:layout_constraintEnd_toEndOf="@+id/textView"
+					app:layout_constraintStart_toStartOf="@+id/textView"
+					app:layout_constraintTop_toBottomOf="@+id/textView"
+					tools:ignore="ContentDescription"
+					tools:visibility="visible" />
+
+
+		  </androidx.constraintlayout.widget.ConstraintLayout>
+
+	 </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
