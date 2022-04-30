@@ -23,7 +23,7 @@ Complexities and animations with one of Android’s most important classes
 
 ## Demo
 
-https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/demo.mp4?width=200&height=200
+https://raw.githubusercontent.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/master/screen/demo.mp4?width=200&height=200
 
 
 ## License
