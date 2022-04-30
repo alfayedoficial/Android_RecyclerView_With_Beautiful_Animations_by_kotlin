@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png"  />
+</p>
 
 # Android RecyclerView With Beautiful Animations For Korlin 
 
