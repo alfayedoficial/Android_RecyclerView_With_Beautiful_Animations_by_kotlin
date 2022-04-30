@@ -2,7 +2,7 @@
 <img src="https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png"  />
 </p>
 
-# Android RecyclerView With Beautiful Animations For Korlin 
+# Android RecyclerView With Beautiful Animations For Kotlin 
 
 Complexities and animations with one of Android’s most important classes
 
