@@ -1,7 +1,4 @@
-
-
-
-# Android RecyclerView With Beautiful Animations For Korlin ![Logo](https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png)
+![Logo](https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png) # Android RecyclerView With Beautiful Animations For Korlin 
 
 Complexities and animations with one of Android’s most important classes
 
