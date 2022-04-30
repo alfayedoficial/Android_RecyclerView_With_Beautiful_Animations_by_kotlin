@@ -1,4 +1,5 @@
-![Logo](https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png) 
+<img src="https://github.com/alfayedoficial/Android_RecyclerView_With_Beautiful_Animations_by_kotlin/blob/master/screen/company_logo_vertical.png" width="100%" />
+
 # Android RecyclerView With Beautiful Animations For Korlin 
 
 Complexities and animations with one of Android’s most important classes
@@ -20,7 +21,7 @@ Complexities and animations with one of Android’s most important classes
 
 ## Demo
 
-Insert gif or link to demo
+https://user-images.githubusercontent.com/22210051/124587799-abcfe300-de75-11eb-89e0-3f68ed20b79b.mp4?width=200&height=200
 
 
 ## License
